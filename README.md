@@ -54,10 +54,8 @@ You can adjust the crawler's settings by editing the constants in the config.go 
 ## Contributing
 Contributions are welcome! Please fork the repository and create a pull request for any improvements or bug fixes.
 
-<!--
 ## License
-This project is licensed under the MIT License. See the LICENSE file for details.
--->
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 - `github.com/PuerkitoBio/goquery` for HTML parsing and scraping
